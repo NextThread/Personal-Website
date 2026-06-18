@@ -20,7 +20,7 @@ const baseURL: string = siteData.meta.baseURL;
 const routes: RoutesConfig = {
   "/": true,
   "/about": true,
-  "/work": true,
+  "/work": false,
   "/blog": false,
   "/gallery": true,
   "/github": true,
