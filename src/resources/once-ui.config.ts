@@ -195,8 +195,8 @@ const schema: SchemaConfig = {
 
 // social links
 const sameAs: SameAsConfig = {
-  instagram: "https://instagram.com/roy.unfazed",
-  linkedin: "https://linkedin.com/in/umutxyp",
+  // instagram: "https://instagram.com/roy.unfazed",
+  // linkedin: "https://linkedin.com/in/umutxyp",
   github: "https://github.com/NextThread",
   twitter: "https://twitter.com/DegenOnChain",
   // youtube: "https://youtube.com/@umutxyp",
